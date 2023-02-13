@@ -1,0 +1,51 @@
+body {
+    background-color: powderblue;
+}
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: lightcyan;
+    border-width: 8px;
+    width: 5%;
+}
+
+h1 {
+    color:cornsilk;
+}
+
+h3 {
+    color: rosybrown;
+}
+
+th {
+    color: palevioletred;
+}
+
+
+img {
+    background-color: powderblue;
+}
+
+img:hover {
+    background-color: blueviolet;
+}
+
+.kiss {
+        background-color: antiquewhite;
+}
+
+.hug {
+        background-color: cadetblue;
+}
+
+.hug:hover {
+    background-color: blue;
+}
+/*
+#heading {
+            color:darksalmon;    
+}*/
+ .circular {
+        border-radius: 100%;    
+ }
